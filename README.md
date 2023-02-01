@@ -20,6 +20,8 @@ I'm a Fullstack Developer with 1 year of experience, currently working as a free
 📩Mail: agustinsavoy1@gmail.com
 📚 Portfolio: https://portfolio-app-sage-tau.vercel.app
 
+![](https://github.com/Agustinsavoy1/agustinsavoy1/blob/main/shuba-duck-duck.gif)
+
 <!--
 **Agustinsavoy1/agustinsavoy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
